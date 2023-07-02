@@ -1,2 +1,2 @@
-# ISLOM
-MY PROGECY
+# myprodject
+мой первый проект за курс
